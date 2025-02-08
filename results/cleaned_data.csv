@@ -1,0 +1,16 @@
+Capture,Modified,Msg_Conflict,Num_Logs
+Accelerator Attack (Drive)                 ,Unknown,Unknown,2
+Accelerator Attack (Reverse)                    ,Unknown,Unknown,2
+Correlated Signal Attack                    ,T,Unknown,3
+Correlated Signal Attack    ,Unknown,T,3
+Fuzzing Attack                            ,T,Unknown,3
+Max Engine Coolant Temp Attack                ,T,Unknown,1
+Max Engine Coolant Temp Attack ,Unknown,T,1
+Max Speedometer Attack         ,T,Unknown,3
+Max Speedometer Attack       ,Unknown,T,3
+Reverse Light Off Attack                    ,T,Unknown,3
+Reverse Light Off Attack     ,Unknown,T,3
+Reverse Light On Attack                     ,T,Unknown,3
+Reverse Light On Attack      ,Unknown,T,3
+Dyno Various Ambient,Unknown,                       N/A,10
+Road Various Ambient,Unknown,                       N/A,2

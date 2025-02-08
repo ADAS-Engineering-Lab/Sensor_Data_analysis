@@ -1,0 +1,25 @@
+🔹 **Categorical Insights for ROAD Dataset** 🔹
+
+Capture Counts:
+Capture
+Accelerator Attack (Drive)                          1
+Accelerator Attack (Reverse)                        1
+Correlated Signal Attack                            1
+Correlated Signal Attack                            1
+Fuzzing Attack                                      1
+Max Engine Coolant Temp Attack                      1
+Max Engine Coolant Temp Attack                      1
+Max Speedometer Attack                              1
+Max Speedometer Attack                              1
+Reverse Light Off Attack                            1
+Reverse Light Off Attack                            1
+Reverse Light On Attack                             1
+Reverse Light On Attack                             1
+Dyno Various Ambient                                1
+Road Various Ambient                                1
+
+Msg Conflict Counts:
+Msg_Conflict
+Unknown                       8
+T                             5
+                       N/A    2

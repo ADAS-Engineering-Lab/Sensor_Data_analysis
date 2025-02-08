@@ -1,0 +1,23 @@
+🔹 **EDA Summary Report for ROAD Dataset** 🔹
+
+Total Missing Values per Column:
+Capture         0
+Modified        9
+Msg_Conflict    8
+Num_Logs        0
+dtype: int64
+
+Total Duplicate Rows: 0
+
+Summary Statistics:
+        Num_Logs
+count  15.000000
+mean    3.000000
+std     2.070197
+min     1.000000
+25%     2.000000
+50%     3.000000
+75%     3.000000
+max    10.000000
+
+✅ Data Cleaning Completed: Missing values filled & duplicates removed.
